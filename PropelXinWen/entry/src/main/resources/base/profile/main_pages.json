@@ -1,0 +1,7 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/xinwen/NewsDetailCase",
+    "pages/xinwen/NewsCase"
+  ]
+}

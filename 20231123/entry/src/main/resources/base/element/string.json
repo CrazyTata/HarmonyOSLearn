@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "tata"
+    },
+    {
+      "name": "imgView",
+      "value": "图片预览"
+    },
+    {
+      "name": "imagHeight",
+      "value": "图片高度"
+    },
+    {
+      "name": "inputPrefix",
+      "value": "请输入"
+    },
+    {
+      "name": "inputSuffix",
+      "value": "的数字"
+    },
+    {
+      "name": "zoomBig",
+      "value": "放大"
+    },
+    {
+      "name": "zoomMin",
+      "value": "缩小"
+    }
+  ]
+}

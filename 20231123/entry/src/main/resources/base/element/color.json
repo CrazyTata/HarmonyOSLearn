@@ -1,0 +1,17 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "tab_home_blue",
+      "value": "#FF1A0202"
+    }
+  ,
+    {
+      "name": "tab_home_gray",
+      "value": "#FFF50A0A"
+    }
+  ]
+}
