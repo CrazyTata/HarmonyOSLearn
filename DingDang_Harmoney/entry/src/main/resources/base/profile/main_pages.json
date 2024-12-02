@@ -1,0 +1,19 @@
+{
+  "src": [
+    "pages/ViewController/Index",
+    "pages/ViewController/Second",
+    "pages/ViewController/Home",
+    "pages/ViewController/Login/LoginViewController",
+    "pages/Index",
+    "pages/ViewController/Login/SMSViewController",
+    "pages/ViewController/Document/CreateDocumentPage1",
+    "pages/ViewController/Account/AccountViewController",
+    "pages/ViewController/Evalution/EvalutionViewController",
+    "pages/ViewController/VIP/VIPPurchaseViewController",
+    "pages/ViewController/Account/ServiceViewController",
+    "pages/ViewController/Document/DocumentListPage",
+    "pages/ViewController/Train/DDCustomizedViewController",
+    "pages/ViewController/Train/DDTrainHomeViewController",
+    "pages/ViewController/Train/SystemTrainViewController"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "/Users/wangmogang/.ohos/config/default_DingDang_Harmoney_zS4hDwxE7uy93zk8j0FzeYsxaPN6fknXcTUjh6KvwnM=.cer",
+          "storePassword": "0000001AD06FA9319DEE9C7E32FB023062E3C27159F898C0DFA95A9DBF1067486456110CC0D4FF48D2CB",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001AFEB7CAFA6ED54885AEBD0E3FD0CAFFD4ABFD4C040A200C23D342402310A60791AF546A0A651F",
+          "profile": "/Users/wangmogang/.ohos/config/default_DingDang_Harmoney_zS4hDwxE7uy93zk8j0FzeYsxaPN6fknXcTUjh6KvwnM=.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "/Users/wangmogang/.ohos/config/default_DingDang_Harmoney_zS4hDwxE7uy93zk8j0FzeYsxaPN6fknXcTUjh6KvwnM=.p12"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "5.0.0(12)",
+        "runtimeOS": "HarmonyOS",
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
